@@ -1,0 +1,14 @@
+body{
+    margin-top: 100px;
+    font-family: monospace;
+    background-color: rgb(57, 7, 104);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 55px;
+}
+.container{
+   
+    width: 310px;
+}
